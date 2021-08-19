@@ -1,3 +1,11 @@
+![Shopping_cat-comp1](https://user-images.githubusercontent.com/11633823/130057778-8c59b4e7-405d-4a38-8093-9a817dad9248.png)
+
+A simple responsive shopping catalog and cart, Built using Typescript, React, and Material -UI Styled Components.
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
